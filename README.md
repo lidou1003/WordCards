@@ -9,4 +9,5 @@
 <br>
 按下Play鍵後，會依序念出單字的念法，每兩秒換到下一個
 <img width="697" height="430" alt="image" src="https://github.com/user-attachments/assets/fa12881f-8895-4263-90a6-968e89f9d51a" />
-
+<br>
+有設定無滑鼠操作: Enter 下一個、Space 重覆
